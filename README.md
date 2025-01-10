@@ -53,7 +53,7 @@ Welcome to my GitHub! I'm a Computer and Electronics Engineering student with a 
 ## Let's Connect!  
 
 - [LinkedIn](https://www.linkedin.com/in/niket-girdhar-068858250/)  
-- [Portfolio/Website](https://niketgirdhar22.github.io/portfolio/)  
+- [Portfolio/Website](https://niketgirdhar.in)  
 - Email: niketgirdhar2004@gmail.com
 
 --- 
