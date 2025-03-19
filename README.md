@@ -40,6 +40,7 @@ Welcome to my GitHub! I'm a Computer and Electronics Engineering student with a 
 - **SEHAT**: A centralized platform designed to streamline healthcare by organizing, analyzing, and facilitating communication between patients, doctors, and pharmacies.
 - **Random Password Generator**: A password generator that generates random passwords according to your entered constrains and an optional keyword entered by you to make it even more random.
 - **Chatbot**: Worked on a basic chatbot which works on Sentiment Analysis.
+- **RAG Pipeline**: Worked on a local RAG pipeline for converting a pdf to a database for a LLM to chat with.
 
 ---
 
