@@ -1,5 +1,5 @@
 
-# Hi there, I'm Niket!  
+# Hi there, I'm Niket Girdhar!  
 
 **Aspiring Engineer** | **Data Science Enthusist** | **Exploring GenAI**  
 
@@ -22,9 +22,9 @@ Welcome to my GitHub! I'm a Computer and Electronics Engineering student with a 
 
 - **Software Engineering Fellow** at Headstarter AI  
 - **Intern** at DigiMantra  
-- **Project Highlights**:  
-  - **Route Planning API**: Efficient navigation solutions.  
-  - **Invoice Insights API**: Simplified data management.  
+  - **Project Highlights**:  
+    - **Route Planning API**: Efficient navigation solutions.  
+    - **Invoice Insights API**: Simplified data management.  
 
 ---
 
