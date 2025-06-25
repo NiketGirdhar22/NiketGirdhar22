@@ -24,7 +24,10 @@ Welcome to my GitHub! I'm a Computer and Electronics Engineering student with a 
 - **Intern** at DigiMantra  
   - **Project Highlights**:  
     - **Route Planning API**: Efficient navigation solutions.  
-    - **Invoice Insights API**: Simplified data management.  
+    - **Invoice Insights API**: Simplified data management.
+- **ML Intern** at Five Angstrom
+  - **Project Highlights**:
+      - **Python-to-Rust function converter**: Function snippet converter from Python to Rust.  
 
 ---
 
@@ -41,13 +44,14 @@ Welcome to my GitHub! I'm a Computer and Electronics Engineering student with a 
 - **Random Password Generator**: A password generator that generates random passwords according to your entered constrains and an optional keyword entered by you to make it even more random.
 - **Chatbot**: Worked on a basic chatbot which works on Sentiment Analysis.
 - **RAG Pipeline**: Worked on a local RAG pipeline for converting a pdf to a database for a LLM to chat with.
+- **Python-to-Rust function converter**: Explored various models and fine-tuned encoder-decoder architercture based model to convert python function to rust.
 
 ---
 
 ## Tech Stack  
 
-- **Languages**: HTML, CSS, Basic JavaScript, Python, PHP
-- **Frameworks & Tools**: NLP with scikit-learn, Flask, MLP, FastAPI
+- **Languages**: HTML, CSS, Basic JavaScript, Python, PHP, Rust
+- **Frameworks & Tools**: NLP with scikit-learn, Flask, MLP, FastAPI, trl, peft
 
 ---
 
