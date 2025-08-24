@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a Computer and Electronics Engineering student with a 
 
 ## About Me  
 
-- **Current Status**: 3nd-year Engineering student, building projects and learning new technologies.  
+- **Current Status**: Final year Engineering student, building projects and learning new technologies.  
 - **Interests**: 
   - **Coding**: Turning ideas into functional and elegant code.  
   - **Digital Art**: Creating visually captivating designs and illustrations.  
